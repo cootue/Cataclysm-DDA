@@ -122,6 +122,8 @@
     <ClCompile Include="..\building_generation.cpp" />
     <ClCompile Include="..\calendar.cpp" />
     <ClCompile Include="..\catajson.cpp" />
+    <ClCompile Include="..\cursesport.cpp" />
+    <ClCompile Include="..\catacharset.cpp" />
     <ClCompile Include="..\color.cpp" />
     <ClCompile Include="..\computer.cpp" />
     <ClCompile Include="..\construction.cpp" />
@@ -156,7 +158,6 @@
     <ClCompile Include="..\mapdata.cpp" />
     <ClCompile Include="..\mapgen.cpp" />
     <ClCompile Include="..\mapgenformat.cpp" />
-    <ClCompile Include="..\mapitemsdef.cpp" />
     <ClCompile Include="..\material.cpp" />
     <ClCompile Include="..\melee.cpp" />
     <ClCompile Include="..\mission.cpp" />
@@ -219,6 +220,7 @@
     <ClInclude Include="..\building_generation.h" />
     <ClInclude Include="..\calendar.h" />
     <ClInclude Include="..\catacurse.h" />
+    <ClInclude Include="..\catacharset.h" />
     <ClInclude Include="..\catajson.h" />
     <ClInclude Include="..\color.h" />
     <ClInclude Include="..\computer.h" />
